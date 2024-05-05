@@ -1,2 +1,2 @@
 # ised-dl-demo serverless API
-This project, created with [`aws-serverless-java-container`](https://github.com/aws/serverless-java-container). Demonstrates how to create an AWS Lambda function using Spring Boot that returns an Excel file for download.
+This project, created with [`aws-serverless-java-container`](https://github.com/aws/serverless-java-container) demonstrates how to create an AWS Lambda function using Spring Boot that returns an Excel file for download.
